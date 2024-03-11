@@ -20,7 +20,10 @@
 # Para eso estamos los informaticos, para transformar datos en información
 # A mayor cantidad de datos, mayor cantidad de información
 
-# un diagrama de clases se caracteriza por:
+##############################################
+# Prueba de diagnóstico:
+
+# Un diagrama de clases se caracteriza por:
 # - Clase
 # - Atributos
 # - Métodos
